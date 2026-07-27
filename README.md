@@ -68,5 +68,5 @@ Kalau project ini berhasil bikin gebetan kamu senyum, baper, atau jadian
 ---
 
 ## 👤 Author
-* Zamzami Ahmad
+** Zamzami Ahmad **
 GitHub: [@Madtch](https://github.com/Madtch)
